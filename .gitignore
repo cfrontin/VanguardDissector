@@ -1,0 +1,13 @@
+
+# stupid OS stuff
+.DS_Store
+# swap files for VIM
+*.swp
+# log files from python
+*.log
+# comma separated values files are data, not code
+*.csv
+# data files folder
+temp_files
+
+
