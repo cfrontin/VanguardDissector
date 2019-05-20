@@ -3,7 +3,8 @@ import csv
 from selenium import webdriver
 
 # settings
-download= False
+download= True
+pause_time= 2000
 
 # quarter end performance report
 data= csv.reader(open('SymbolsandholdingsView.csv'))
@@ -56,7 +57,7 @@ profile.set_preference('browser.download.downloadDir', path_save)
 
 # fire up webdriver, tell it to wait for load before actions
 br= webdriver.Firefox(profile)
-br.implicitly_wait(1000)
+br.implicitly_wait(pause_time)
 
 # print output data
 print "Now downloading data for the funds:\n\n"
