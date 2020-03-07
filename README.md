@@ -2,9 +2,10 @@
 ## Synopsis
 
 The most accesible financial instrument in modern finance is the index fund. An
-index fund is a mutual fund or exchange-traded fund (ETF) is
-[https://en.wikipedia.org/wiki/Index_fund]("designed to follow certain preset rules so that the fun can track a specified basket of underlying investments"),
-usually a popular index for a market. Because these
+index fund is a mutual fund or exchange-traded fund (ETF) is [designed to follow
+certain preset rules so that the fun can track a specified basket of underlying
+investments](https://en.wikipedia.org/wiki/Index_fund), usually a popular index
+for a market. Because these
 funds are derivative products with many component parts, frequently including
 many mutual funds, themselves composed of some combination of mutual funds,
 these funds allow both a relatively safe investment for the average investor,
